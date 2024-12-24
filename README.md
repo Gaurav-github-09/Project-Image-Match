@@ -4,6 +4,16 @@ Live link- **https://gk06MatchAllImg.ccbp.tech**
 
 Technologies used-  **HTML, CSS, JAVASCRIPT, REACT.JS**
 
+-----------------------------------------
+
+### Refer to the image below:
+
+<br/>
+<div style="text-align: center;">
+    <img src="https://postimg.cc/QKt34J7p" alt="Match Image Game" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
+</div>
+<br/>
+
 
 -------------------------------------------------------------
 
