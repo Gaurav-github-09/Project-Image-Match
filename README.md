@@ -10,7 +10,7 @@ Technologies used-  **HTML, CSS, JAVASCRIPT, REACT.JS**
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://postimg.cc/QKt34J7p" alt="Match Image Game" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
+    <img src="https://i.postimg.cc/2ydS5H8X/1-match-game.gif" alt="Match Image Game" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
 </div>
 <br/>
 
