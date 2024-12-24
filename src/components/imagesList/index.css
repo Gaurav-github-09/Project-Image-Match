@@ -1,0 +1,29 @@
+.thumbnail {
+  height: 60px;
+  width: 60px;
+}
+
+.buttonThumb {
+  background-color: transparent;
+  margin: 5px;
+  outline: none;
+  height: auto;
+  width: auto;
+  cursor: pointer;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  .thumbnail {
+    height: 140px;
+    width: 140px;
+  }
+  .buttonThumb {
+    background-color: transparent;
+    margin: 10px;
+    height: auto;
+    width: auto;
+    outline: none;
+    border: none;
+  }
+}
