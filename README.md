@@ -4,16 +4,6 @@ Live link- **https://gk06MatchAllImg.ccbp.tech**
 
 Technologies used-  **HTML, CSS, JAVASCRIPT, REACT.JS**
 
-### Refer to the video below:
-
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/match-game-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
-
 
 -------------------------------------------------------------
 
@@ -41,8 +31,3 @@ This app will have the following functionalities
 - When the timer reached `0` sec, then the game will end, and the [Scorecard](https://assets.ccbp.in/frontend/content/react-js/match-game-score-card-lg-output.png) view will be displayed
 
 
--------------------------------------# Project-Match-Game
-# Project-Match-Game
-# Project-Match-Game
-# Project-Image-Match
-# Project-Image-Match
